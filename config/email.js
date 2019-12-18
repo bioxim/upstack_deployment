@@ -1,6 +1,6 @@
 module.exports = {
-	user: '134affab56675b',
-	pass: '11ec0bd5568c70',
-	host: 'smtp.mailtrap.io',
-	port: '2525'
+	user: 'contact@foobe.com.ar',
+	pass: 'PeLo1109',
+	host: 'smtp.googlemail.com',
+	port: '465'
 }
